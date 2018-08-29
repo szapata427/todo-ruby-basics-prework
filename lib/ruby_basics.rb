@@ -21,7 +21,7 @@ return name
 end
 
 def return_a_value
-  returns "Nice"
+  return "Nice"
 
 end
 
