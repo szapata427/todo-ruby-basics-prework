@@ -15,8 +15,9 @@ def argue(element)
   
 end
 
-def greeting
-
+def greeting(greeting, name)
+return greeting 
+return name
 end
 
 def return_a_value
