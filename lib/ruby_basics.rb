@@ -6,6 +6,8 @@ end
 
 def assign_variable(value)
   
+  variable = value
+  
 end
 
 def argue
